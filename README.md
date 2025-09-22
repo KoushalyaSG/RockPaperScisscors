@@ -9,4 +9,4 @@ Features
 Interactive gameplay between player and computer
 Randomized computer moves
 Clear win/lose/draw result after each round
-Beginner-friendly code, easy to understand and extend
+Beginner-friendly code, easy to understand and extend.
